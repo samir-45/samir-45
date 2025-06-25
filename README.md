@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align="center">
+  <img src="./Black Technology LinkedIn Banner.jpg" alt="Mahin Khan Banner" />
+</p>
 # Hi, I'm Mahin Khan 👋  
 🚀 MERN Stack Developer | Frontend Developer | Open to Work
 
