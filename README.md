@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Black Technology LinkedIn Banner.jpg" alt="Mahin Khan Banner" />
+  <img src="./banner.png" alt="Mahin Khan Banner" />
 </p>
 # Hi, I'm Mahin Khan 👋  
 🚀 MERN Stack Developer | Frontend Developer | Open to Work
@@ -46,10 +46,10 @@ More exciting projects coming soon...
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahin-khan&show_icons=true&theme=radical" alt="mahin's GitHub stats" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-khan&theme=radical" alt="mahin's GitHub streak" />
 </p>
 
