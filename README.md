@@ -15,7 +15,7 @@ I’m a passionate and self-motivated **MERN Stack Developer** from Bangladesh. 
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,css,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,typescript,nextjs,nodejs,express,mongodb,firebase,tailwind,css,html,git,github,vscode" />
 </p>
 
 ---
