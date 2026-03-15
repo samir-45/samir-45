@@ -112,11 +112,11 @@ Modern grocery shop web application with admin dashboard.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/samir-45/samir-45/output/github-contribution-grid-snake-dark.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/samir-45/samir-45/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
+</p>>
 
 ---
 
