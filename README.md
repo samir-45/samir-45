@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Mahin Khan Banner" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Mahin Khan</h1>
+<h1 align="center">Hi I'm Mahin Khan</h1>
 
 <p align="center">
   <strong>Frontend Developer • React • Next.js • TypeScript</strong><br/>
@@ -52,7 +52,7 @@ I specialize in building modern web applications using **React, Next.js, and Typ
 📍 Dhaka, Bangladesh  
 🗓 2026 – Present
 
-- Developing responsive UI using **React, Next.js, TypeScript**
+- Developing responsive UI using **React, Next.js, TypeScript, ANT Design, TailwindCSS**
 - Integrating **REST APIs**
 - Managing state with **Redux Toolkit / RTK Query**
 - Improving **frontend performance and scalability**
@@ -123,7 +123,7 @@ Modern grocery shop web application with admin dashboard.
 # 📫 Connect With Me
 
 - 📧 Email: **mdmahinkhan621@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/mahin-khan-277531331/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/devmahin/**
 - 🌐 Facebook: **https://www.facebook.com/mdmahin464**
 
 ---
